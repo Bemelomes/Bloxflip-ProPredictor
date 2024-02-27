@@ -4,6 +4,8 @@
 - Predicts Bomb/Roulette and other games
 - Easy to understand settings
 
+<p align=center>![1](https://github.com/Bemelomes/Bloxflip-ProPredictor/assets/161485328/fe9c4efa-d38b-4f57-af1d-7dfdaf6121a9)</p>
+
 ## ⚙️Requirements
 * .NET Framework 4.1+
 
@@ -11,5 +13,3 @@
 
 Try to reinstall winpcap - thats main reason for that error Use this for setup.
 
-<p align=center>![1](https://github.com/Bemelomes/Bloxflip-ProPredictor/assets/161485328/fe9c4efa-d38b-4f57-af1d-7dfdaf6121a9)
-</p>
