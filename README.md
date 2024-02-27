@@ -4,7 +4,9 @@
 - Predicts Bomb/Roulette and other games
 - Easy to understand settings
 
-<p align=center>https://github.com/Bemelomes/Bloxflip-ProPredictor/assets/161485328/fe9c4efa-d38b-4f57-af1d-7dfdaf6121a9</p>
+<p align=center>
+  ![1](https://github.com/Bemelomes/Bloxflip-ProPredictor/assets/161485328/21b90be5-5cb4-4c66-9514-8ab3d686b52c)
+</p>
 
 ## ⚙️Requirements
 * .NET Framework 4.1+
